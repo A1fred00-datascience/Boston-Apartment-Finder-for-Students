@@ -11,6 +11,7 @@ Exploratory Data Analysis (EDA) with visualizations of property distributions, p
 Implementation of a Linear Regression model to predict listed prices.
 Interactive Streamlit interface for filtering and viewing properties.
 Map integration to visualize property locations in Boston.
+
 Technology Stack:
 
 Python: Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Geopy
