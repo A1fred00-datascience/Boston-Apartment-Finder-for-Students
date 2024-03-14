@@ -9,8 +9,8 @@ The Boston Apartment Finder for Students is a comprehensive data analysis and vi
 Data cleaning and preprocessing of Zillow's Boston real estate data.
 Exploratory Data Analysis (EDA) with visualizations of property distributions, prices, and areas.
 Implementation of a Linear Regression model to predict listed prices.
-Interactive Streamlit interface for filtering and viewing properties.
-Map integration to visualize property locations in Boston.
+Interactive Streamlit interface for filtering and viewing properties in real time.
+Map integration to visualize property locations in Boston through Google Maps API.
 
 ## Technology Stack:
 
