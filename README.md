@@ -17,7 +17,6 @@ Map integration to visualize property locations in Boston through Google Maps AP
 Python: Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Geopy
 Machine Learning: Linear Regression using Scikit-learn
 Visualization: Matplotlib, Seaborn, Streamlit map
-Usage:
 
 ## To run the Streamlit application:
 
